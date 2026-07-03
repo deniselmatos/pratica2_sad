@@ -85,7 +85,7 @@ with col1:
         x="Variável",
         y="Coeficiente",
         color="Coeficiente",
-        title="Influência das Variáveis"
+        title="Coeficientes da Regressão Linear"
     )
 
     st.plotly_chart(fig, width="stretch")
